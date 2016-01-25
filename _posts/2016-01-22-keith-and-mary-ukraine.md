@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Keith and Mary Gillespie- Missionaries to Ukraine.  We are one of the Pastoral Couples at International Christian Assembly in Kyiv Ukraine.  '
-datePublished: '2016-01-22T21:16:36.048Z'
-dateModified: '2016-01-22T21:15:31.793Z'
+datePublished: '2016-01-25T18:58:19.409Z'
+dateModified: '2016-01-25T18:58:04.606Z'
 title: 'Keith & Mary- Ukraine'
 author: []
 authors: []
