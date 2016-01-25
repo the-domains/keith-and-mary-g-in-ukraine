@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Keith and Mary Gillespie- Missionaries to Ukraine.  We are one of the Pastoral Couples at International Christian Assembly in Kyiv Ukraine.  '
-datePublished: '2016-01-25T19:11:45.198Z'
-dateModified: '2016-01-25T19:11:39.828Z'
+datePublished: '2016-01-25T19:20:09.841Z'
+dateModified: '2016-01-25T19:20:07.453Z'
 title: 'Keith & Mary- Ukraine'
 author: []
 sourcePath: _posts/2016-01-22-keith-and-mary-ukraine.md
@@ -26,16 +26,16 @@ _type: Article
 
 January 2016- Three years in Kyiv and now we are back in the USA.  But just for a short while (hopefully).  We believe Ukraine is where we belong and can minister.  So we will become Career Missionary Associates.  It means increasing our budget a little and that's why we are back in the States.  
 
-We will be working hard
+We are working hard
 to return to Kyiv by September 1, 2016\.  When we return we will continue
 the work we started.  We see ourselves involved in two important
 tasks- 
 
 1\.
  Church Planting-There are 30 cities with populations from 10,000-50,000
-people that have no evangelical churches.  Obviously, an important task is
+people that have no evangelical churches.  An important task is
 to establish the church where it is not.  We will Support, Encourage, and
-Train pastors as they start new churches throughout Ukraine.  
+Train pastors as they start new churches throughout Ukraine.  Much of our time will be spent coaching these pastors as they develop their leadership skills.
 
 2\.
  International Christian Assembly, ICA-An estimated 50,000 expats
