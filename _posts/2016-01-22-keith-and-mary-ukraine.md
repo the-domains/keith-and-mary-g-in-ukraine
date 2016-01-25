@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Keith and Mary Gillespie- Missionaries to Ukraine.  We are one of the Pastoral Couples at International Christian Assembly in Kyiv Ukraine.  '
-datePublished: '2016-01-25T18:58:19.409Z'
-dateModified: '2016-01-25T18:58:04.606Z'
+datePublished: '2016-01-25T19:09:33.950Z'
+dateModified: '2016-01-25T19:09:25.370Z'
 title: 'Keith & Mary- Ukraine'
 author: []
+sourcePath: _posts/2016-01-22-keith-and-mary-ukraine.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-22-keith-and-mary-ukraine.md
-published: true
 url: keith-and-mary-ukraine/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0b6f6f8-e579-48eb-9d9e-27f51392e9af.jpg)
+
 January 2016- Three years in Kyiv and now we are back in the USA.  But just for a short while (hopefully).  We believe Ukraine is where we belong and can minister.  So we will become Career Missionary Associates.  It means increasing our budget a little and that's why we are back in the States.  
 
 We will be working hard to return to Kyiv by September 1, 2016\.  When we return we will continue the work we started.  We see ourselves involved in two important tasks- 
